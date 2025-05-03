@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "falling-forest-4bf4",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3bd9e3a2-0c1d-4b39-80ff-114e386558d7",
+      "database_name": "falling-forest-4bf4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
